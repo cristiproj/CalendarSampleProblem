@@ -4,4 +4,4 @@ Sample for stackoverflow question: https://stackoverflow.com/questions/61139534/
 
 Expected results:
 
-When pushing the button a the current time should be displayed.
+When pushing the button, the current time should be displayed.
